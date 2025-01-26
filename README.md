@@ -1,8 +1,8 @@
 ### Graph Algorithm
 ------------
-- [ ] BFS
-- [ ] DFS
-- [ ] Dijkstra
+- [x] BFS
+- [x] DFS
+- [x] Dijkstra
 - [ ] Bell man ford
 - [ ] Floyd- warshall
 - [ ] Kosarajus
